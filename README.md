@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @idjerfaf
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Web Dev and Computer Science
+- 🌱 I’m currently studying a Bachelor in Computer Science @ Sorbonne University, Paris, France 
+- 🌱 Ex Mathematical & Computer Science student @ University of Science and Technology Houari Boumediene, Alger, Algeria
 - 📫 How to reach me: idjerfaf@gmail.com
-
-<!---
-idjerfaf/idjerfaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
