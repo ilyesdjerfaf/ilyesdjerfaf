@@ -5,7 +5,7 @@ Data Scientist @ Safran Aircraft Engines
 ----------------------------------------
 
 * 🌍  I'm based in Paris
-* ✉️  You can contact me at <firstname>.<lastname>@universite-paris-saclay.fr
+* ✉️  You can contact me at firstname.lastname@universite-paris-saclay.fr
 * 🚀  I'm currently working on [Content Analysis & Rec Systems](http://github.com/ilyesdjerfaf)
 * 🧠  I'm learning LLMs, Deep Learning and Data Engineering
 * 🤝  I'm open to collaborating on Different Projects : Academic, End-to-End Projects and Learning Based Projects too
