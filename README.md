@@ -16,14 +16,13 @@ class IlyesDjerfaf:
     
     def connect(self):
         return {
-            "LinkedIn": "https://www.linkedin.com/in/ilyes-djerfaf",
-            "Twitter": "https://twitter.com/ilyes_djerfaf"
+            "LinkedIn": "https://www.linkedin.com/in/ilyesdjerfaf"
         }
 
 if __name__ == "__main__":
     ilyes = IlyesDjerfaf()
     print(ilyes)
-    print("Connect with me:")
+    print("Contact me:")
     for platform, url in ilyes.connect().items():
         print(f"{platform}: {url}")
 ```
