@@ -9,6 +9,8 @@ class IlyesDjerfaf:
         self.education = "Data Science Student @ University Paris Saclay"
         self.occupation = "Apprentice Data Scientist @ Safran Aircraft Engines"
         self.current_focus = "LLMs"
+        self.current_projects = ["Automatic Driven Unit Tests with Large Language Models",
+                                 "Social Media Content Filtering Tool"]
 
     @contactme
     def connect(self):
