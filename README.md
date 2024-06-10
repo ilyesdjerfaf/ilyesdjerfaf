@@ -10,8 +10,7 @@ class IlyesDjerfaf:
         self.occupation = "Apprentice Data Scientist @ Safran Aircraft Engines"
         self.current_focus = "LLMs"
         self.current_projects = ["Code Generation enhanced by Behavior Driven Development",
-                                 "Social Media Content Filtering Tool",
-                                 "Assistant Juridique"]
+                                 "Social Media Content Filtering Tool"]
 
     @contactme
     def connect(self):
