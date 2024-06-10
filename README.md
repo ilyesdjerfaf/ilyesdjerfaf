@@ -9,7 +9,7 @@ class IlyesDjerfaf:
         self.education = "Data Science Student @ University Paris Saclay"
         self.occupation = "Apprentice Data Scientist @ Safran Aircraft Engines"
         self.current_focus = "LLMs"
-        self.current_projects = ["Code Generation enhanced by TDD",
+        self.current_projects = ["Code Generation enhanced by Behavior Driven Development",
                                  "Social Media Content Filtering Tool",
                                  "Assistant Juridique"]
 
